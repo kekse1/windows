@@ -14,8 +14,8 @@ Because all keys can be re-mapped to any functionality/command/.. at least in my
 w/in my [`xfce4` Window Manager](https://www.xfce.org/).
 
 ### The keyboard layout
-I'm using [**`xfce4`**](https://www.xfce.org/) and wrote a tiny [script](#the-scripts-layoutsh)
-for this purpose.
+I'm using [**`xfce4`**](https://www.xfce.org/) and once wrote
+a little [script](#the-script-layoutsh) for this purpose.
 
 I'm from Germany, and sometimes I need to write umlauts (`ue`, `ae`, `oe`, .. and some
 other special characters). But I don't want to miss the advantages of the `us` layout,
