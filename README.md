@@ -45,9 +45,10 @@ And here you can **download** this script (see my [original **Scripts** reposito
 <br>
 
 ### Configuration
-On the **Top of the script** there's a `$layouts` **array**. Replace it or insert any of your
-used keyboard layouts (the short form). If you only use `us` and `de`, too, feel free to do
-nothing.
+On the **Top of the script** there's a `$layouts` **array**. Replace it or insert any of the
+keyboard layouts you want to rotate or switch between.
+
+`us` and `de` are **my** personal defaults. Using only them you don't need to edit the script.
 
 <br>
 
