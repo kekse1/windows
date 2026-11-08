@@ -56,7 +56,7 @@ you'll have to capture the key to assign it to [my script](#the-script-layoutsh)
 > [!NOTE]
 > Note the `-` parameter after the path/location! This will rotate between available layouts,
 > if you use only one key. Many keys for many layouts are also possible - if you define the
-> concrete layout as only script parameter.
+> concrete layout as the only script parameter. See [**Usage** (above)](#usage)!
 
 ![Configuration](./img/xfce4-config.png)
 
