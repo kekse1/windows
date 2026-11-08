@@ -10,7 +10,7 @@ This key is 'nonsense'. ...
 ... but I got one on my new laptop, and I like it.
 
 Because all keys can be re-mapped to any functionality/command/.. at least in my
-[Linux](https://kernel.org/) operating system. And this all is done very easy
+[Linux](https://kernel.org/) operating system. And this is all done very easy
 w/in my [`xfce4` Window Manager](https://www.xfce.org/).
 
 <br>
