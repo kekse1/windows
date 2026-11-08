@@ -42,12 +42,12 @@ The script itself ...
 ## Setup
 Since I'm using the [**`xfce4`**](https://www.xfce.org/), it's very easy to setup everything.
 
-Copy [my script](#) to e.g. `/usr/local/bin/layout.sh`. Then go to the `xfce4` settings (via
-right click on the desktop, to select `Applications`, then `Settings` and in there the `Keyboard`,
-to select the tab `Shortcuts for Applications` (or smth. like this)). There you can click on the
-button `Add` to type in the path of [my script](#). Finally you'll have to capture the key to
-assign it to [my script](#). Use the `-` parameter for rotation, otherwise use the concrete
-layouts as parameter when you use different keys.
+Copy [my script](#the-script-layoutsh) to e.g. `/usr/local/bin/layout.sh`. Then go to the `xfce4`
+settings (via right click on the desktop, to select `Applications`, then `Settings` and in there
+the `Keyboard`, to select the tab `Shortcuts for Applications` (or smth. like this)). There you
+can click on the button `Add` to type in the path of [my script](#the-script-layoutsh). Finally
+you'll have to capture the key to assign it to [my script](#the-script-layoutsh). Use the `-`
+parameter for rotation, otherwise use the concrete layouts as parameter when you use different keys.
 
 ## Beautify
 Xfce got it's own element for the main bar. Adding this tool to the bar will let you always
