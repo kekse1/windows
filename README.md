@@ -44,6 +44,13 @@ And here you can **download** this script (see my [original **Scripts** reposito
 
 <br>
 
+### Configuration
+On the **Top of the script** there's a `$layouts` **array**. Replace it or insert any of your
+used keyboard layouts (the short form). If you only use `us` and `de`, too, feel free to do
+nothing.
+
+<br>
+
 ## Setup
 Since I'm using the [**`xfce4`**](https://www.xfce.org/), it's very easy to setup everything.
 
