@@ -51,8 +51,12 @@ Copy [my script](#the-script-layoutsh) to e.g. `/usr/local/bin/layout.sh`. Then 
 settings (via right click on the desktop, to select `Applications`, then `Settings` and in there
 the `Keyboard`, to select the tab `Shortcuts for Applications` (or smth. like this)). There you
 can click on the button `Add` to type in the path of [my script](#the-script-layoutsh). Finally
-you'll have to capture the key to assign it to [my script](#the-script-layoutsh). Use the `-`
-parameter for rotation, otherwise use the concrete layouts as parameter when you use different keys.
+you'll have to capture the key to assign it to [my script](#the-script-layoutsh).
+
+> [!NOTE]
+> Note the `-` parameter after the path/location! This will rotate between available layouts,
+> if you use only one key. Many keys for many layouts are also possible - if you define the
+> concrete layout as only script parameter.
 
 ![Configuration](./img/xfce4-config.png)
 
