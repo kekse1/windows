@@ -24,14 +24,14 @@ especially when I'm coding.
 <br>
 
 # The script `layout.sh`
-Dependencies are (beneath the [`bash` shell](https://www.gnu.org/software/bash/)):
+Dependencies (beneath the [`bash` shell](https://www.gnu.org/software/bash/)) are:
 
 * [`x11-xkb-utils`](https://packages.debian.org/de/sid/x11-xkb-utils)
 
 > [!TIP]
 > `sudo apt install x11-xkb-utils`
 
-The script itself (see my [**Scripts** repository](https://github.com/kekse1/scripts/#layoutsh)):
+And here you can **download** this script (see my [original **Scripts** repository](https://github.com/kekse1/scripts/#layoutsh)):
 
 * [`layout.sh`](./src/layout.sh) v**0.2.1**
 
