@@ -59,8 +59,7 @@ parameter for rotation, otherwise use the concrete layouts as parameter when you
 <br><br>
 
 ## Beautify
-Xfce got it's own applet for the main bar. Adding this tool to the bar will let you
-always see which layout is selected.
+Xfce got it's own applet for the main bar. Add it to always see which layout is active.
 
 ![Applet](./img/xfce4-applet.png)
 
