@@ -9,8 +9,11 @@ This key is 'nonsense'. ...
 ## Using it '**the right way**'
 ... but I got one on my new laptop, and I like it.
 
-The reason: any key can be kinda 'macro' key. So it can be used for any functionality.
-Especially on Linux. Or because I only know how to do it on this OS (the only one I'm using)..
+Because all keys can be re-mapped to any functionality/command/.. at least in my
+[Linux](https://kernel.org/) operating system. And this all is very easy done w/in
+my [`xfce4` Window Manager](https://www.xfce.org/).
+
+<br>
 
 ### The keyboard layout
 I'm using [**`xfce4`**](https://www.xfce.org/) and a tiny script I wrote on my own for this
@@ -21,12 +24,14 @@ especially when I'm coding.
 <br>
 
 # The script `layout.sh`
-Dependencies are:
+Dependencies are (beneath the [`bash` shell](https://www.gnu.org/software/bash/)):
 
-* The [`bash` shell](https://www.gnu.org/software/bash/)
-* `apt install x11-xkb-utils`
+* [`x11-xkb-utils`](https://packages.debian.org/de/sid/x11-xkb-utils)
 
-The script itself ...
+> [!TIP]
+> `sudo apt install x11-xkb-utils`
+
+The script itself (see my [**Scripts** repository](https://github.com/kekse1/scripts/#layoutsh)):
 
 * [`layout.sh`](./src/layout.sh) v**0.2.1**
 
@@ -49,9 +54,15 @@ can click on the button `Add` to type in the path of [my script](#the-script-lay
 you'll have to capture the key to assign it to [my script](#the-script-layoutsh). Use the `-`
 parameter for rotation, otherwise use the concrete layouts as parameter when you use different keys.
 
+![Configuration](./img/xfce4-config.png)
+
+<br><br>
+
 ## Beautify
-Xfce got it's own element for the main bar. Adding this tool to the bar will let you always
-see which layout is selected.
+Xfce got it's own applet for the main bar. Adding this tool to the bar will let you
+always see which layout is selected.
+
+![Applet](./img/xfce4-applet.png)
 
 <br><br><br>
 
