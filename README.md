@@ -13,8 +13,6 @@ Because all keys can be re-mapped to any functionality/command/.. at least in my
 [Linux](https://kernel.org/) operating system. And this is all done very easy
 w/in my [`xfce4` Window Manager](https://www.xfce.org/).
 
-<br>
-
 ### The keyboard layout
 I'm using [**`xfce4`**](https://www.xfce.org/) and a tiny script I wrote on my own for this
 purpose. I'm from Germany, and sometimes I need to write umlauts (`ue`, `ae`, `oe`, .. and
