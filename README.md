@@ -17,7 +17,7 @@ w/in my [`xfce4` Window Manager](https://www.xfce.org/).
 I'm using [**`xfce4`**](https://www.xfce.org/) and once wrote
 a little [script](#the-script-layoutsh) for this purpose.
 
-I'm from Germany, and sometimes I need to write umlauts (`ue`, `ae`, `oe`, .. and some
+I'm from Germany, so sometimes I need to write umlauts (`ue`, `ae`, `oe`, .. and some
 other special characters). But I don't want to miss the advantages of the `us` layout,
 especially when I'm coding.
 
